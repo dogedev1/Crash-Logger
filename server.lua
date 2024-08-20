@@ -47,7 +47,7 @@ function logCrash(playerId, reason, coords)
                 }
             },
             ["footer"] = {
-                ["text"] = "Crash Logger | Powered by Jenkins.International"
+                ["text"] = "Crash Logger"
             },
             ["timestamp"] = os.date("!%Y-%m-%dT%H:%M:%SZ"), 
             ["thumbnail"] = {
